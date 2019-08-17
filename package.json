@@ -2,7 +2,7 @@
   "name": "tindev-backend",
   "version": "1.0.0",
   "description": "Tindev back-end developed with node.js, using express.js.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
