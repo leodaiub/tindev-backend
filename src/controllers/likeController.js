@@ -1,4 +1,4 @@
-const Dev = require('../models/Dev');
+const Dev = require('../models/Dev.js');
 
 module.exports = {
     async store(req, res) {
